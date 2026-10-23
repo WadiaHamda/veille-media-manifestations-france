@@ -1,0 +1,5 @@
+feedparser
+pandas
+plotly>=5.24
+scikit-learn
+streamlit>=1.50
